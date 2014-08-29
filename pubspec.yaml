@@ -1,0 +1,9 @@
+name: AppName
+description: App Description
+dependencies: 
+  sass: any
+transformers:
+- sass:
+    executable: /web/styles
+    style: compact                
+    copy-sources: false
