@@ -1,11 +1,11 @@
 // sass --watch web/assets/styles/main.scss:build/web/assets/styles/main.css --style compressed
 @import "compass/reset";
-@import "compass/css3"
-@import "compass/typography"
-@import "compass/utilities/general"
+@import "compass/css3";
+@import "compass/typography";
+@import "compass/utilities/general";
 
-@import "susy"
-@import "breakpoint"
+@import "susy";
+@import "breakpoint";
 
 $base-font-size: 16px;
 $base-line-height: 1.35;
