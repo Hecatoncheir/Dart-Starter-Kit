@@ -10,5 +10,5 @@ gem guard-livereload
 gem guard-compass
 pip install livereload
 
-do not forgete: compass init
+do not forget: compass init
 start whith: guard -i
