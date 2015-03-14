@@ -17,7 +17,7 @@ do not forget: compass init <br>
 start whith: guard -i
 
 ------
-
+<pre>
 .
 ├── Gemfile
 ├── Guardfile
@@ -41,3 +41,4 @@ start whith: guard -i
     └── index.html
 
 10 directories, 10 files
+</pre>
