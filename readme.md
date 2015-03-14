@@ -15,3 +15,29 @@ pip install livereload <br>
 
 do not forget: compass init <br>
 start whith: guard -i
+
+------
+
+.
+├── Gemfile
+├── Guardfile
+├── bin
+├── config.rb
+├── pubspec.yaml
+├── readme.md
+└── web
+    ├── assets
+    │   ├── fonts
+    │   ├── images
+    │   ├── scripts
+    │   │   └── main.dart
+    │   └── styles
+    │       ├── components
+    │       ├── main.scss
+    │       ├── modules
+    │       ├── print.scss
+    │       └── screen.scss
+    ├── components
+    └── index.html
+
+10 directories, 10 files
