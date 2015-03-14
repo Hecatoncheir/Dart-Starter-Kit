@@ -11,3 +11,6 @@ group :development do
     end
   end
 end
+
+#guard 'ctags-bundle', :src_path => ["web"] do
+#end

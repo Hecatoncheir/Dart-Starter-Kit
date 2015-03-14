@@ -2,8 +2,12 @@ name: AppName
 description: App Description
 author: Auto mail <@mail> 
 homepage: http://
+
 dependencies: 
   sass: any
+  grinder:
+      git: 'git@github.com:google/grinder.dart.git'
+
 transformers:
 - sass:
     style: compact                
