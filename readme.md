@@ -42,6 +42,8 @@ grind build -for make build and compile styles
 ├── config.rb
 ├── pubspec.yaml
 ├── readme.md
+├── tool
+│   └── grind.dart
 └── web
     ├── assets
     │   ├── fonts
@@ -57,5 +59,5 @@ grind build -for make build and compile styles
     ├── components
     └── index.html
 
-10 directories, 10 files
+11 directories, 11 files
 </pre>
